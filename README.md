@@ -40,6 +40,6 @@ Note:
 2. Don't worry if you find the program is not responding after tapping the "Loading" button. 
    It is because loading the data needs time, especially when you change to another subject who have just completed a session of data acquisition. 
    More data were collected, it will need more time to load them, but not too long.
-3. you can choose to watch the specific sensor data by selecting the corresponding box in the "Debug" zone, 
+3. You can choose to watch the specific sensor data by selecting the corresponding box in the "Debug" zone, 
    so you don't have to open all the devices.
 4. You'd better not do Step. 1 now, otherwise the program may go wrong

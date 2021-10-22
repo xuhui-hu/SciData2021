@@ -13,7 +13,7 @@
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
-  <widget class="QWidget" name="">
+  <widget class="QWidget" name="layoutWidget">
    <property name="geometry">
     <rect>
      <x>14</x>
@@ -36,7 +36,7 @@
          </font>
         </property>
         <property name="text">
-         <string>姓名</string>
+         <string>Name</string>
         </property>
        </widget>
       </item>
@@ -65,7 +65,7 @@
          </font>
         </property>
         <property name="text">
-         <string>年龄</string>
+         <string>Age</string>
         </property>
        </widget>
       </item>
@@ -87,7 +87,7 @@
          </font>
         </property>
         <property name="text">
-         <string>性别</string>
+         <string>Gender</string>
         </property>
        </widget>
       </item>
@@ -120,7 +120,7 @@
          </font>
         </property>
         <property name="text">
-         <string>惯用手</string>
+         <string>Hand</string>
         </property>
        </widget>
       </item>
@@ -158,14 +158,14 @@
          </font>
         </property>
         <property name="text">
-         <string>备注</string>
+         <string>Note</string>
         </property>
        </widget>
       </item>
       <item>
        <widget class="QLineEdit" name="tip">
         <property name="placeholderText">
-         <string>英语（可选）</string>
+         <string>(Optional)</string>
         </property>
        </widget>
       </item>
